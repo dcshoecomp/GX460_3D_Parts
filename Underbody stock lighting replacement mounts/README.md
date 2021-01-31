@@ -1,5 +1,5 @@
 # Parts list
-There are 2 model types ones that will accept 10-24 nutert's and ones that you would reuse your stock light screws to screw directly into plastic. *note directly screwing into plastic is essentially only good one time and do not over tighten. 
+There are 2 model types ones that will accept 10-24 nutert's(to be heated to melt into place) and ones that you would reuse your stock light screws to screw directly into plastic. *note directly screwing into plastic is essentially only good one time and do not over tighten. 
 
 ## Front Body
 Universal for both sides so x2 needed. 
