@@ -11,7 +11,7 @@ Universal set of spacers for the front body. Make sure correct orientation of th
 4x lock washers
 4x washers
 
-## Rear Driver(USA right side) & Rear Passenger
+## Rear Driver(USA left side) & Rear Passenger(Right)
 The light will mount with the plug facing to the back of the truck, as there is extra cable that can be zip tied to neigboring ebrake cable. If you want it can used on the other side to change light plug orientation. 
 4x (8mmx40) socket caps *hex caps will not fit into the recess.
 4x lock washers
