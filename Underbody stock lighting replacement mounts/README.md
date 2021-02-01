@@ -7,7 +7,7 @@ Nutserts model requires 4x (10-24 x 1/2") screws, and 4x fender washers or extra
 
 ## Front Spacers
 Universal set of spacers for the front body. Make sure correct orientation of the triangles are aligned to be flush and the bolts are at an angle. 
-4x (8mmx60) Hex cap
+4x (8mmx60) Hex or Socket cap
 4x lock washers
 4x washers
 
