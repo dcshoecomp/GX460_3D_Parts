@@ -17,3 +17,7 @@ The light will mount with the plug facing to the back of the truck, as there is 
 4x lock washers
 4x washers
 Nutserts model requires 4x (10-24 x 1/2") screws, and 4x fender washers or extra wide washer
+
+
+** Donate if you like my work and want to encourage me to do more ** https://www.paypal.com/donate?hosted_button_id=VNZ5AXWNEU238
+
